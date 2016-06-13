@@ -1,0 +1,17 @@
+{
+  "name": "alexa_reddit_dad",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdavidzhu/alexa_reddit_dad.git"
+  },
+  "author": "hdavidzhu",
+  "bugs": {
+    "url": "https://github.com/hdavidzhu/alexa_reddit_dad/issues"
+  },
+  "homepage": "https://github.com/hdavidzhu/alexa_reddit_dad#readme",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
