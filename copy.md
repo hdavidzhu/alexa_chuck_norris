@@ -1,8 +1,10 @@
 ### Short Skill Description
 
-Want a dad joke? Let FunnyDad tell you a joke!
+Want a dad joke? Let FunnyDad tell you a joke! Disclaimer: not suitable for all ages.
 
 ### Full Skill Description
+
+Disclaimer: not suitable for all ages.
 
 Can't get enough of jokes from your dad? Now you can ask Alexa for more dad jokes! Sourced from Reddit's hot r/dadjokes, you'll be sure to get the latest puns and 'laughs'.
 
