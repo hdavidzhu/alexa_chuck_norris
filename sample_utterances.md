@@ -7,3 +7,5 @@ GetJokeIntent tell me a joke
 GetJokeIntent give me a joke
 GetJokeIntent tell me dad joke
 GetJokeIntent give me dad joke
+GetJokeIntent tell me a dad joke
+GetJokeIntent give me a dad joke
