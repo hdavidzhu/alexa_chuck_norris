@@ -46,7 +46,7 @@ RedditDad.prototype.intentHandlers = {
   },
 
   "AMAZON.HelpIntent": function (intent, session, response) {
-    response.ask("Ask me to tell you a dad joke from Reddit!");
+    response.ask("Ask me to tell you a dad joke from Reddit!", "You can say tell me a joke");
   },
 
   "AMAZON.StopIntent": function (intent, session, response) {
